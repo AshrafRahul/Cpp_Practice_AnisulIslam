@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672405904 source:c:\users\mashr\documents\github\cpp_practice_ai\7.oop\mainfile\mainfile.cpp
+	"mainfile.h"
+	<iostream>
+
+1672405961 c:\users\mashr\documents\github\cpp_practice_ai\7.oop\mainfile\mainfile.h
+	"mainfile.h"
+
+1672405921 source:c:\users\mashr\documents\github\cpp_practice_ai\7.oop\mainfile\main.cpp
+	<iostream>
+	"mainfile.h"
+
