@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672559842 source:c:\users\mashr\documents\github\cpp_practice_ai\7.oop\9_constantobject\main.cpp
+	<iostream>
+	"constantobject.h"
+
+1672560027 c:\users\mashr\documents\github\cpp_practice_ai\7.oop\9_constantobject\constantobject.h
+
+1672560038 source:c:\users\mashr\documents\github\cpp_practice_ai\7.oop\9_constantobject\constantobject.cpp
+	"constantobject.h"
+	<iostream>
+
