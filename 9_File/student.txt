@@ -1,4 +1,0 @@
-Welcome Ashraful Islam
-Welcome cd "c:\Users\mashr\Documents\GitHub\Cpp_Practice_AI\26_File\" ; if ($?) { g++ 1_file.cpp -o 1_file } ; if ($?) { .\1_file }
-Welcome Rahul
-Welcome Muhammad

@@ -7,7 +7,7 @@ int main(){
     string name;
 
     ofstream file;
-    file.open("student.txt", ios::out|ios::app);
+    file.open("1_student.txt", ios::out|ios::app);
     
     cout<<"Enter your name: ";
     getline(cin, name);
