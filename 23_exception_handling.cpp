@@ -2,8 +2,6 @@
 #include<cstring>
 using namespace std;
 
-
-
 int main(){
     try{
         int n1, n2;
